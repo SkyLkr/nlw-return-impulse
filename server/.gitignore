@@ -4,3 +4,5 @@ coverage
 prisma/dev.db
 
 .env
+
+dist
